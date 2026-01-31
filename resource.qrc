@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/recouce">
+        <file>image/1903460.png</file>
+        <file>image/Windows_Settings_app_icon.png</file>
+        <file>image/3951850.png</file>
+        <file>image/owl_9606306.png</file>
+        <file>image/file.png</file>
+        <file>image/papka.png</file>
+        <file>image/error.png</file>
+        <file>image/ok.png</file>
+        <file>image/lock.png</file>
+        <file>image/unlock.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>image/3951850.png</file>
+        <file>image/owl_9606306.png</file>
+        <file>image/file.png</file>
+        <file>image/papka.png</file>
+        <file>image/error.png</file>
+        <file>image/ok.png</file>
+    </qresource>
+</RCC>

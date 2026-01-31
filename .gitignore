@@ -1,0 +1,24 @@
+# Сборки Qt
+build/
+debug/
+release/
+*.exe
+*.o
+*.obj
+*.ilk
+*.pdb
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Временные файлы
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Папки, созданные Qt
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
